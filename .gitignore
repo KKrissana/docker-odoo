@@ -1,5 +1,6 @@
 # my ignore
 odoo-*
+odoo/*
 odoo-stubs-*
 odoo_addons/*
 
