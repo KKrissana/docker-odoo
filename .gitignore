@@ -1,8 +1,12 @@
 # my ignore
 odoo-*
+odoo
 odoo/*
 odoo-stubs-*
+odoo_addons
 odoo_addons/*
+dist-*
+.venv
 
 # Thumbnails
 ._*

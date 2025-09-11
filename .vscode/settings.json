@@ -1,0 +1,16 @@
+{
+    "python.languageServer": "Default",
+    "python.analysis.stubPath": "${workspaceFolder}/odoo-stubs",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/odoo",
+        "${workspaceFolder}/odoo-addons"
+    ],
+    "python.analysis.fixAll": [
+
+    ],
+    "python.autoComplete.extraPaths": [
+
+    ],
+    "Odoo.disablePythonLanguageServerPopup": true,
+    "python.analysis.typeCheckingMode": "off",
+}
